@@ -4,7 +4,7 @@
 
 ## About me
 - ⭐ Currently learning ``C`` and ``Java``
-- 💉 Working on my college homework 
+- 💉 2nd year networing student
 
 
 
