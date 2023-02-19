@@ -2,11 +2,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carmineamaryllis&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-## About me
+### About me
 - ⭐ Currently learning ``C`` and ``Java``
 - 💉 2nd year networing student
 
-### Tools I use (or used)
+### Tools
 <!-- Language badges -->
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=960018)
