@@ -21,7 +21,7 @@
 ### 📊 Stats
 
 ![Amaryllis' GitHub stats](https://github-readme-stats.vercel.app/api?username=carmineamaryllis&show_icons=true&theme=tokyonight)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carmineamaryllis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
