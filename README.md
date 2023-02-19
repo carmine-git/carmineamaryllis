@@ -6,7 +6,7 @@
 - ⭐ Currently learning ``C`` and ``Java``
 - 💉 2nd year networing student
 
-### Tools && languages
+### Tools / Languages
 <!-- Language badges -->
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=1A1B26)
